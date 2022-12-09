@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+   <openedEditor>TestElement:J6qJh5TgIkCScAV7wMbPlKBUnz3SPTPM</openedEditor>
+   <openedEditor>TestElement:VaPgEnV4nq2ZE6qTXaxMSRaLc5U14HYP</openedEditor>
+   <openedEditor>DecisionTable:scshXaTvCl1bMQ77qiCLXnI758zgcgxM</openedEditor>
+   <openedEditor>TestElement:HymZxkRxwKTDXkRJNfck55g0aKldqlzV</openedEditor>
+   <openedEditor>TestElement:dfJ3pGf4Q2F6AJ8jkNFQkXIVH5pi0JUe</openedEditor>
+   <activeEditor>TestElement:dfJ3pGf4Q2F6AJ8jkNFQkXIVH5pi0JUe</activeEditor>
+   <editorConfigurations>
+      <table assistant_orientation="256"
+             resource="DecisionTable:VaPgEnV4nq2ZE6qTXaxMSRaLc5U14HYP-629668735-67116903">
+         <assistant_sash_weights>
+            <weight>100</weight>
+            <weight>0</weight>
+         </assistant_sash_weights>
+         <columnWidths>
+            <width>100</width>
+            <width>250</width>
+            <width>150</width>
+            <width>150</width>
+         </columnWidths>
+         <hiddenKinds/>
+      </table>
+      <table assistant_orientation="256"
+             resource="DecisionTable:VaPgEnV4nq2ZE6qTXaxMSRaLc5U14HYP-629668735-1097944542">
+         <assistant_sash_weights>
+            <weight>100</weight>
+            <weight>0</weight>
+         </assistant_sash_weights>
+         <columnWidths>
+            <width>199</width>
+            <width>417</width>
+            <width>152</width>
+            <width>417</width>
+         </columnWidths>
+         <hiddenKinds/>
+      </table>
+      <table assistant_orientation="256"
+             resource="DecisionTable:VaPgEnV4nq2ZE6qTXaxMSRaLc5U14HYP-629668735-1712843150">
+         <assistant_sash_weights>
+            <weight>100</weight>
+            <weight>0</weight>
+         </assistant_sash_weights>
+         <columnWidths>
+            <width>183</width>
+            <width>265</width>
+            <width>150</width>
+            <width>150</width>
+         </columnWidths>
+         <hiddenKinds/>
+      </table>
+      <generation generationKind="COVERAGE_FIRST"/>
+      <table assistant_orientation="256"
+             resource="DecisionTable:KHLrKVjVoBnsqsOeLD40M9rJtzbyLc4x">
+         <assistant_sash_weights>
+            <weight>100</weight>
+            <weight>0</weight>
+         </assistant_sash_weights>
+         <columnWidths>
+            <width>100</width>
+            <width>100</width>
+            <width>100</width>
+            <width>100</width>
+            <width>187</width>
+            <width>100</width>
+            <width>100</width>
+         </columnWidths>
+         <hiddenKinds/>
+      </table>
+      <scenario assistant_orientation="256"
+                resource="TestElement:lBx4cDnimbMcQO8pGSTOurSXAozoopWn">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+      <scenario assistant_orientation="256"
+                resource="TestElement:iMpQF4osneTBViUAF9XdAEicU1OhfWtM">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+      <scenario assistant_orientation="256"
+                resource="TestElement:63QQhoEGztUVVsysEaZRrtpZPi2TvGDD">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+      <scenario assistant_orientation="256"
+                resource="TestElement:XPGB7xl4hcjhVypsGJhkuiOWGF0bqj7a">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+      <scenario assistant_orientation="256"
+                resource="TestElement:J6qJh5TgIkCScAV7wMbPlKBUnz3SPTPM">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+      <workflow assistant_orientation="256"
+                resource="TestElement:VaPgEnV4nq2ZE6qTXaxMSRaLc5U14HYP"
+                viewLocationX="0"
+                viewLocationY="0"
+                zoom="1.0">
+         <assistant_sash_weights>
+            <weight>100</weight>
+            <weight>0</weight>
+         </assistant_sash_weights>
+      </workflow>
+      <table assistant_orientation="256"
+             resource="DecisionTable:scshXaTvCl1bMQ77qiCLXnI758zgcgxM">
+         <assistant_sash_weights>
+            <weight>100</weight>
+            <weight>0</weight>
+         </assistant_sash_weights>
+         <columnWidths>
+            <width>100</width>
+            <width>100</width>
+            <width>100</width>
+            <width>250</width>
+            <width>150</width>
+            <width>150</width>
+         </columnWidths>
+         <hiddenKinds/>
+      </table>
+      <scenario assistant_orientation="256"
+                resource="TestElement:HymZxkRxwKTDXkRJNfck55g0aKldqlzV">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+      <scenario assistant_orientation="256"
+                resource="TestElement:dfJ3pGf4Q2F6AJ8jkNFQkXIVH5pi0JUe">
+         <assistant_sash_weights>
+            <weight>50</weight>
+            <weight>50</weight>
+         </assistant_sash_weights>
+         <right_panel_layer>EDITOR_WORKFLOW_LAYER</right_panel_layer>
+      </scenario>
+   </editorConfigurations>
+   <authenticationConfigurations/>
+</project>
